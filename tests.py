@@ -12,6 +12,11 @@ class TestCase(unittest.TestCase):
         expected = '12345678'
         self.assertFalse(check_pwd(input), expected)
 
+    def test2(self):
+        input = 1234567
+        expected = '1234567'
+        self.assertTrue(check_pwd(input), expected)
+
 
 if __name__ == '__main__':
     unittest.main()
