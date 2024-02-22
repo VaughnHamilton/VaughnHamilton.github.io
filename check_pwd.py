@@ -5,5 +5,7 @@ def check_pwd(pword):
         return False
     elif not any(part.islower() for part in password):
         return False
+    elif not any(part.isupper() for part in password):
+        return False
         
     return True
