@@ -10,5 +10,7 @@ def check_pwd(pword):
         return False
     elif not any(part in symbols for part in password):
         return False
+    elif len(password) <= 8: 
+        return False
         
     return True
