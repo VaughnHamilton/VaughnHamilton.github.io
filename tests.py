@@ -22,6 +22,11 @@ class TestCase(unittest.TestCase):
         expected = '123456789123456789111'
         self.assertFalse(check_pwd(input), expected)
 
+    def test4(self):
+        input = 'abcdefghi'
+        expected = 'abcdefghi'
+        self.assertFalse(check_pwd(input), expected)
+
 
 
 
