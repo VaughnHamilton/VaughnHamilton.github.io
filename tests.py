@@ -42,6 +42,11 @@ class TestCase(unittest.TestCase):
         expected = 'ABcd345678'
         self.assertFalse(check_pwd(input), expected)
     
+    def test8(self):
+        input = 'Ab34$'
+        expected = 'Ab34$'
+        self.assertFalse(check_pwd(input), expected)
+    
 
 if __name__ == '__main__':
     unittest.main()
