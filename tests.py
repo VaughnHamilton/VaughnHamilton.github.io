@@ -10,7 +10,7 @@ class TestCase(unittest.TestCase):
     def test1(self):
         input = 12345678
         expected = '12345678'
-        self.assertTrue(check_pwd(input), expected)
+        self.assertFalse(check_pwd(input), expected)
 
     def test2(self):
         input = 1234567
@@ -27,6 +27,10 @@ class TestCase(unittest.TestCase):
         expected = 'abcdefghi'
         self.assertFalse(check_pwd(input), expected)
 
+    def test5(self):
+        input = 'ABCDEFGHI'
+        expected = 'ABCDEFGHI'
+        self.assertFalse(check_pwd(input), expected)
 
 
 
