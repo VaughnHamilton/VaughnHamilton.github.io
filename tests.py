@@ -34,11 +34,14 @@ class TestCase(unittest.TestCase):
 
     def test6(self):
         input = 'abcd345678'
-        expected ='abcd345678'
+        expected = 'abcd345678'
+        self.assertFalse(check_pwd(input), expected)
+
+    def test7(self):
+        input = 'ABcd345678'
+        expected = 'ABcd345678'
         self.assertFalse(check_pwd(input), expected)
     
-
-
 
 if __name__ == '__main__':
     unittest.main()
