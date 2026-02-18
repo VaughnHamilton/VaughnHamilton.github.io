@@ -75,3 +75,68 @@ li em { font-style: normal; font-weight: 600; } /* if you italicize your name, m
   .hero-title { font-size: 1.85rem; }
   .hero-links { font-size: 0.95rem; }
 }
+.quarto-container {
+  max-width: 860px;
+}
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+/* Hero section */
+.hero {
+  margin-top: 1rem;
+  margin-bottom: 2.25rem;
+}
+
+.hero-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.hero-sub {
+  margin-top: 0.25rem;
+  font-size: 1.05rem;
+  opacity: 0.75;
+}
+
+.hero-links {
+  margin-top: 0.6rem;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.hero-links a {
+  text-decoration: none;
+}
+
+.hero-links a:hover {
+  text-decoration: underline;
+}
+
+/* Section spacing */
+h2 {
+  margin-top: 2.5rem;
+  font-weight: 700;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  font-weight: 600;
+}
+
+li {
+  margin-bottom: 1.25rem;
+}
+
+em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+hr {
+  opacity: 0.15;
+  margin: 2rem 0;
+}
