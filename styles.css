@@ -31,3 +31,47 @@ h3 {
 li {
   margin-bottom: 1.1rem;
 }
+
+
+/* Layout + typography */
+.quarto-container { max-width: 860px; }
+body { font-size: 1.04rem; line-height: 1.65; }
+p { margin-top: 0.6rem; }
+
+/* Hero */
+.hero { margin-top: 0.75rem; margin-bottom: 2.25rem; }
+.hero-title { font-size: 2.15rem; font-weight: 700; letter-spacing: -0.02em; }
+.hero-sub { margin-top: 0.2rem; font-size: 1.05rem; opacity: 0.8; }
+.hero-links { margin-top: 0.55rem; font-size: 0.98rem; opacity: 0.9; }
+.hero-links a { text-decoration: none; }
+.hero-links a:hover { text-decoration: underline; }
+.sep { margin: 0 .45rem; opacity: 0.35; }
+
+/* Sections */
+h2 { margin-top: 2.4rem; font-weight: 700; letter-spacing: -0.01em; }
+h3 { margin-top: 1.4rem; font-weight: 650; }
+hr { margin: 2rem 0; opacity: 0.12; }
+
+/* Publications: cleaner list */
+ul { padding-left: 1.1rem; }
+li { margin-bottom: 1.05rem; }
+li em { font-style: normal; font-weight: 600; } /* if you italicize your name, make it stand out */
+
+/* Make publication links look like subtle buttons */
+.pub-links a {
+  display: inline-block;
+  border: 1px solid rgba(0,0,0,.14);
+  padding: .08rem .55rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: .9rem;
+  margin-right: .4rem;
+  opacity: .92;
+}
+.pub-links a:hover { opacity: 1; }
+
+/* Mobile */
+@media (max-width: 520px) {
+  .hero-title { font-size: 1.85rem; }
+  .hero-links { font-size: 0.95rem; }
+}
