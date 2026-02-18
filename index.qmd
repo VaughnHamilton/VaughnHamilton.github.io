@@ -1,0 +1,80 @@
+---
+title: "Vaughn Hamilton"
+subtitle: "Accelerated Masters' Program · Computer Science · Oregon State University"
+---
+
+<div class="meta">
+blandyc@oregonstate.edu ·
+<!-- #<a href="#">Google Scholar</a> ·
+<a href="#">ORCID</a> ·
+<a href="#">GitHub</a> ·
+<a href="/cv.pdf">CV (PDF)</a> -->
+</div>
+
+## Research
+
+I am a research associate in the Safety and Society lab of Dr Elissa Redmiles. My research work is mostly concentrated in Human-Computer 
+Interaction, and takes in qualitative interview studies, ethics work and technical analysis. 
+
+## Education
+
+**B.S., Computer Science **, Oregon State University (Expected 2026)
+
+## Publications
+
+### 2025
+
+- **“As Someone Who is Disabled, I am so thankful for Sex Work”: Alternative Approaches to Access Among Disabled Sex-Workers.** Rodolitz, J., Hamilton, V., Tabassum, M., Lerner, A., & Hofmann, M.  
+  *Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility*, 2025.  
+  <!--
+<a href="#">PDF</a> · <a href="#">Code</a> -->
+
+
+### 2024
+
+- **" I feel physically safe but not politically safe": Understanding the Digital Threats and Safety Practices of OnlyFans Creators.** A Soneji, V Hamilton, A Doupé, A McDonald, EM Redmiles.  
+  *33rd USENIX Security Symposium*, 2024.  
+  <!--
+<a href="#">PDF</a> · <a href="#">Code</a> -->
+
+- **" Did They {F* ing} Consent to That?": Safer Digital Intimacy via Proactive Protection Against Image-Based Sexual Abuse.** L Qin, V Hamilton, S Wang, Y Aydinalp, M Scarlett, EM Redmiles.  
+  *33rd USENIX Security Symposium*, 2024.  
+  <!--
+<a href="#">PDF</a> · <a href="#">Code</a> -->
+
+### 2023
+
+- **“Nudes? Shouldn’t I charge for these?”: Motivations of New Sexual Content Creators on OnlyFans.** V Hamilton, A Soneji, A Mcdonald, EM Redmiles.  
+  *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems *, 2023.  
+  <!--
+<a href="#">PDF</a> · <a href="#">Code</a> -->
+
+- **Safer digital intimacy for sex workers and beyond: A technical research agenda.** V Hamilton, G Kaptchuk, A McDonald, EM Redmiles.  
+  *IEEE Security & Privacy 22*, 2023.  
+  <!--
+<a href="#">PDF</a> · <a href="#">Code</a> -->
+
+- **Toward safer intimate futures: Recommendations for tech platforms to reduce image based sexual abuses.** L Qin, V Hamilton, Y Aydinalp, M Scarlett, S Wang, EM Redmiles.  
+  *European Sex Worker Rights Alliance, Amsterdam, The Netherlands*, 2023.  
+  <!--
+ <a href="#">PDF</a> · <a href="#">Code</a> -->
+
+
+  ### 2022
+
+
+- **Ethics and efficacy of unsolicited anti-trafficking SMS outreach.** R Bhalerao, N McDonald, H Barakat, V Hamilton, D McCoy, E Redmiles.  
+  *Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2)*, 2022.  
+  <!--
+ <a href="#">PDF</a> · <a href="#">Code</a> -->
+
+
+- **Risk, resilience and reward: Impacts of shifting to digital sex work.** V Hamilton, H Barakat, EM Redmiles.  
+  *Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2)*, 2022.  
+  <!--
+ <a href="#">PDF</a> · <a href="#">Code</a> -->
+
+- **Ethical Practices for Security Research with At-Risk Populations** R Bhalerao, V Hamilton, A McDonald, EM Redmiles, A Strohmayer.  
+  *2022 IEEE European Symposium on Security and Privacy Workshops*, 2022.  
+  <!--
+ <a href="#">PDF</a> · <a href="#">Code</a> -->
